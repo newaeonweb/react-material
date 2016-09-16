@@ -1,0 +1,14 @@
+{
+  "name": "React Material",
+  "description": "Baseline boilerplate with React and Material Design",
+  "keywords": [
+    "react",
+    "es6",
+    "starter"
+  ],
+  "repository": "https://github.com/newaeonweb/react-material",
+  "logo": "",
+  "env": {
+    "PRODUCTION": "true"
+  }
+}
